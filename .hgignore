@@ -1,0 +1,18 @@
+syntax: glob
+bin/
+build/
+build.gradle
+.classpath
+CREDITS-fml.txt
+eclipse/
+forge-*-changelog.txt
+gradle/
+.gradle/
+gradlew
+gradlew.bat
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+.project
+README.txt
+.settings/
